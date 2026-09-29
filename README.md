@@ -1,2 +1,18 @@
-# my-course-portfolio
-Portfolio of my works and projects for CEP146 
+# My Course Portfolio
+
+Welcome to my academic portfolio for CEP146!
+
+## About Me
+- Name: Jake Lenny
+- Major: *Computer Programming and Analysis* (CO-OP)
+- Year: 2026
+- Favorite Programming Language: C++
+
+## Course Goals
+- [Y] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
+
+## Projects
+*This section will be updated as I complete assignments*
