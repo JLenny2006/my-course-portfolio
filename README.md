@@ -9,7 +9,7 @@ Welcome to my academic portfolio for CEP146!
 - Favorite Programming Language: C++
 
 ## Course Goals
-- [Y] Learn version control with Git and GitHub
+- [x] Learn version control with Git and GitHub
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
 - [ ] Collaborate on group projects
